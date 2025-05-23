@@ -6,7 +6,9 @@ const JsonPage = () => {
   
   return (
     <>
-      <JsonConverter/>
+      <div dir="ltr">
+        <JsonConverter/>
+      </div>
     </>
   );
 };
